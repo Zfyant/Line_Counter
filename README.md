@@ -1,5 +1,7 @@
 # 📏 Python Line Counter
 
+> **View `LINE_COUNT.md` for a Preview.**
+
 ## **Curious about the true size of your codebase's files?**
 This fast, lightweight Python script scans all text files and generates a Markdown report with *organized table summaries* of their line counts right in the directory where you run it.
 
@@ -18,11 +20,11 @@ This fast, lightweight Python script scans all text files and generates a Markdo
 
 Your report includes:
 
-- **📈 Project Overview** - Total files and lines at a glance
-- **🏆 Hall of Fame** - Your biggest files (configurable top N)
-- **🐭 Tiny Files** - The smallest non-empty files  
-- **📋 Complete Inventory** - Every file, sorted by size
-- **🚫 Exclusions List** - What got filtered out and why
+> - **📈 Project Overview** - Total files and lines at a glance
+> - **🏆 Hall of Fame** - Your biggest files (configurable top N)
+> - **🐭 Tiny Files** - The smallest non-empty files  
+> - **📋 Complete Inventory** - Every file, sorted by size
+> - **🚫 Exclusions List** - What got filtered out and why
 
 
 ## 🚀 Quick Start
