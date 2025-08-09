@@ -1,11 +1,13 @@
 # 📏 Python Line Counter
 
-> **View `LINE_COUNT.md` for a Preview.**
+> **View `LINE_COUNT.md` for a Preview.** 🔼
+>
+> Pair With 🔗 **[Summarizer](https://github.com/Zfyant/Summarizer)** to get a fast and detailed summary of your codebase. [Work in Progress]
 
 ## **Curious about the true size of your codebase's files?**
 This fast, lightweight Python script scans all text files and generates a Markdown report with *organized table summaries* of their line counts right in the directory where you run it.
 
-## ✨ What It Does
+## 📜 What It Does
 
 > - 🔍 **Recursively Scans** your entire project's directory
 > - 📊 **Counts** & reports simply the line-count of relevant project files
@@ -16,7 +18,7 @@ This fast, lightweight Python script scans all text files and generates a Markdo
 
 **IDE AI** Gets bogged down in bigger files, keep track of which ones are getting too big on the fly.
 
-## 🎁 What You Get
+## 📦 What You Get
 
 Your report includes:
 
