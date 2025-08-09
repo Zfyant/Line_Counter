@@ -5,10 +5,10 @@ This fast, lightweight Python script scans all text files and generates a Markdo
 
 ## ✨ What It Does
 
-> 🔍 **Recursively Scans** your entire project's directory
-📊 **Counts** & reports simply the line-count of relevant project files
-🎯 **Ignores** the junk (images, docs, cache files, you name it)
-📋 **Generates** a gorgeous Markdown report with all the juicy details
+> - 🔍 **Recursively Scans** your entire project's directory
+> - 📊 **Counts** & reports simply the line-count of relevant project files
+> - 🎯 **Ignores** the junk (images, docs, cache files, you name it)
+> - 📋 **Generates** a gorgeous Markdown report with all the juicy details
 
 **Developers** who want to understand their project's scope, managers tracking code complexity, or anyone who loves data about their data.
 
