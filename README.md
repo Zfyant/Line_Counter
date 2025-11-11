@@ -1,6 +1,6 @@
 # 📏 Python Line Counter
 
-> **View `LINE_COUNT.md` for a Preview.** 🔼
+> **View `LINE_COUNT.md` for a [Preview](https://github.com/Zfyant/Line_Counter/blob/main/LINE_COUNT.md).** 🔼
 >
 > Pair With 🔗 **[Summarizer](https://github.com/Zfyant/Summarizer)** to get a fast and detailed summary of your codebase. [Work in Progress]
 
