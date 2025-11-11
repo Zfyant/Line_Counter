@@ -1,9 +1,9 @@
 # Line Count Report
-*Generated at: `P:\MyCoding\!!Portfolio\Line_Counter`*
+*Generated at: `P:\MyCoding\RAG_Machine`*
 
 ## File Statistics
-- **Total files analyzed:** 1
-- **Total lines of code:** 342
+- **Total files analyzed:** 4
+- **Total lines of code:** 487
 
 ## Largest Files
 *Top 10 files by line count*
@@ -11,6 +11,9 @@
 | Rank | File | Lines | Size (KB) |
 |------|------|------|------|
 | 1 | `line_counter.py` | 342 | 11.1 |
+| 2 | `app.py` | 96 | 4.0 |
+| 3 | `run.py` | 32 | 1.2 |
+| 4 | `start.bat` | 17 | 0.3 |
 
 ---
 
@@ -19,7 +22,10 @@
 
 | Rank | File | Lines | Size (KB) |
 |------|------|------|------|
-| 1 | `line_counter.py` | 342 | 11.1 |
+| 1 | `start.bat` | 17 | 0.3 |
+| 2 | `run.py` | 32 | 1.2 |
+| 3 | `app.py` | 96 | 4.0 |
+| 4 | `line_counter.py` | 342 | 11.1 |
 
 ---
 
@@ -29,6 +35,9 @@
 | File | Extension | Lines | Size (KB) |
 |------|-----------|-------|-----------|
 | `line_counter.py` | py | 342 | 11.1 |
+| `app.py` | py | 96 | 4.0 |
+| `run.py` | py | 32 | 1.2 |
+| `start.bat` | bat | 17 | 0.3 |
 
 ---
 
